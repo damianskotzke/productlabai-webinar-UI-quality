@@ -3,6 +3,3 @@ packages: []
 allowBuilds:
   sharp: true
   unrs-resolver: true
-  msw: false
-  '@vgpu/adapter-node': true
-  webgpu: true
